@@ -1,0 +1,10 @@
+Start
+    Input student_grade
+
+    If student_grade >= 50 Then
+        Print "Pass"
+    Else
+        Print "Fail"
+    End If
+
+End
